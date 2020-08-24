@@ -6,6 +6,8 @@
 @section('content')
     <div class="products-catagories-area clearfix">
 
+        <h1>Title</h1>
+
         <style>
             .grid {
                 display: grid;
